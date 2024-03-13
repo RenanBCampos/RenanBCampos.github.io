@@ -1,6 +1,6 @@
 * {
-    margin: 0;
-    padding: 0;
+    margin: 20;
+    padding: 20;
 }
 
 body {
@@ -37,9 +37,7 @@ img{
 h1{
     color: #5BBE42;
 }
-.container{
-    
-}
+
 nav a:hover{
     color: #5BBE42;
 }
